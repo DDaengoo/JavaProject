@@ -8,8 +8,7 @@ public class WordManeger {
     WordCRUD wordCRUD;
 
     public int selectedMenu() {
-        System.out.print("*** 영단어 마스터 ***\n" +
-                "*********************\n" +
+        System.out.print("*********************\n" +
                 "1. 모든 단어 보기\n" +
                 "2. 수준별 단어 보기\n" +
                 "3. 단어 검색\n" +
@@ -21,6 +20,7 @@ public class WordManeger {
                 "*********************\n" +
                 "=> 원하는 메뉴는? ");
         return s.nextInt();
+
     }
     WordManeger() {
         wordCRUD = new WordCRUD(s);
@@ -28,9 +28,15 @@ public class WordManeger {
     public void start(){
 
         wordCRUD.loadFile();
+        System.out.println("*** 영단어 마스터 ***\n");
         while(true) {
             int menu = selectedMenu();
-            if(menu == 0) break;
+            System.out.print("\n");
+            if(menu == 0) {
+                System.out.println("프로그램 종료! 다음에 또 만나요~");
+                break;
+            }
+
             if(menu == 4) {
                 wordCRUD.addItem();
             }

@@ -82,7 +82,7 @@ public class WordCRUD implements ICRUD{
             System.out.println(list.get(i).toString());
             j++;
         }
-        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------\n");
     }
     public void updateItem() {
         System.out.print("수정할 단어 검색 : ");
@@ -97,7 +97,7 @@ public class WordCRUD implements ICRUD{
 
         Word word = list.get(idList.get(id-1));
         word.setMeaning(meaning);
-        System.out.println("단어가 수정되었습니다.");
+        System.out.println("단어가 수정되었습니다.\n");
 
     }
 
@@ -138,7 +138,7 @@ public class WordCRUD implements ICRUD{
                     count++;
                 }
                 br.close();
-                System.out.println("==> " + count + "개 로딩 완료!!!");
+                System.out.println("==> " + count + "개 로딩 완료!!!\n");
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
@@ -150,7 +150,7 @@ public class WordCRUD implements ICRUD{
                     pr.write(one.toFileString() + "\n");
                 }
                 pr.close();
-                System.out.println("===> 데이터 저장 완료 !!!");
+                System.out.println("===> 데이터 저장 완료 !!!\n");
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
