@@ -9,7 +9,7 @@ CRUD interface (CRUD를 위한 interface)
 
 WordCRUD class (ICRUD interface 구현체)
 - ICRUD를 구현한 단어를 다루는 CRUD 구현체
-- 
+
 WordManager class (wordCRUD를 사용한 실제 관리)
 - wordCRUD룰 이용해서 전체 프로그램을 관리하기 위함
   
