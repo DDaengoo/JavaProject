@@ -27,11 +27,17 @@ Main class (static main 함수, starter class)
 2. [단어 목록] - 등록된 단어를 보여주는 기능
 실행 예) 
 1 *** superintendent  관리자, 감독관
+   
 2 *         electric  전기의, 전기를 생산하는 
+
 3 **       equipment  장비, 용품
+
 4 *             pole  기둥, 장대 
+
 5 *         formerly  이전에, 예전에 
+
 6 *            apple  사과 
+
 7 **            kiwi  키위 
 
 
