@@ -25,7 +25,8 @@ Main class (static main 함수, starter class)
 새단어가 단어장에 추가되었습니다.
 
 2. [단어 목록] - 등록된 단어를 보여주는 기능
-실행 예) 
+실행 예)
+
 1 *** superintendent  관리자, 감독관
    
 2 *         electric  전기의, 전기를 생산하는 
