@@ -23,7 +23,8 @@ Main class (static main 함수, starter class)
 <img width="332" alt="스크린샷 2023-09-08 10 55 04" src="https://github.com/DDaengoo/JavaProject/assets/143365358/87987c55-2e8c-43d3-8d8c-faa6d0c89897">
 
 -----------------------------------
-3. [단어 목록] - 등록된 단어를 보여주는 기능'
+3. [단어 목록] - 등록된 단어를 보여주는 기능
+
 실행 예)
 
 영단어 "2|property|재산, 부동산"을 추가 전
@@ -36,7 +37,8 @@ Main class (static main 함수, starter class)
 
  -----------------------------------
 
-4. [나가기] - 영단어 마스터 프로그램을 종료하는 기능 
+4. [나가기] - 영단어 마스터 프로그램을 종료하는 기능
+    
 실행 예) 
 
 <img width="304" alt="스크린샷 2023-09-08 10 55 53" src="https://github.com/DDaengoo/JavaProject/assets/143365358/49d4b3ee-4659-4d64-8bfc-20b591c59451">
