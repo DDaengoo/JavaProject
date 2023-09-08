@@ -20,21 +20,21 @@ Main class (static main 함수, starter class)
 <영단어 마스터 프로그램 기능 소개> 
 1. [단어 추가] - 새로운 단어를 가하는 기능
    
-<img width="361" alt="스크린샷 2023-09-08 10 47 50" src="https://github.com/DDaengoo/JavaProject/assets/143365358/909392e2-903d-47b9-a37d-29a5fe2b79c5">
-
+<img width="332" alt="스크린샷 2023-09-08 10 55 04" src="https://github.com/DDaengoo/JavaProject/assets/143365358/87987c55-2e8c-43d3-8d8c-faa6d0c89897">
 
 -----------------------------------
 3. [단어 목록] - 등록된 단어를 보여주는 기능'
 실행 예)
 
-<img width="325" alt="스크린샷 2023-09-08 10 48 32" src="https://github.com/DDaengoo/JavaProject/assets/143365358/06ec8771-2d3f-455c-be6c-3f2713b46cc3">
-
+<img width="331" alt="스크린샷 2023-09-08 10 55 19" src="https://github.com/DDaengoo/JavaProject/assets/143365358/ca246d4e-b2b8-457d-a1ff-ebdb7d6c274f">
 
  -----------------------------------
 
 4. [나가기] - 영단어 마스터 프로그램을 종료하는 기능 
 실행 예) 
-프로그램 종료! 다음에 또 만나요~ 
+
+<img width="304" alt="스크린샷 2023-09-08 10 55 53" src="https://github.com/DDaengoo/JavaProject/assets/143365358/49d4b3ee-4659-4d64-8bfc-20b591c59451">
+
 ----------------------------------- 
 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
  
