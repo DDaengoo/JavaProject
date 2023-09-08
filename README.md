@@ -27,11 +27,11 @@ Main class (static main 함수, starter class)
 
 실행 예)
 
-영단어 "2|property|재산, 부동산"을 추가 전
+영단어 "2 |  property |  재산, 부동산" 추가 전
 
 <img width="325" alt="스크린샷 2023-09-08 10 58 33" src="https://github.com/DDaengoo/JavaProject/assets/143365358/1348c8dc-5d74-4fb5-907a-0cd1fe56e2cd">
 
-영단어 "2|property|재산, 부동산"을 추가 후
+영단어 "2 |  property | 재산, 부동산" 추가 후
 
 <img width="336" alt="스크린샷 2023-09-08 10 58 02" src="https://github.com/DDaengoo/JavaProject/assets/143365358/49399216-edcf-4f47-a3a2-69842c9527e6">
 
