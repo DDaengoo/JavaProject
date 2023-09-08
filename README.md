@@ -20,31 +20,15 @@ Main class (static main 함수, starter class)
 <영단어 마스터 프로그램 기능 소개> 
 1. [단어 추가] - 새로운 단어를 가하는 기능
    
-실행 예) 
+<img width="361" alt="스크린샷 2023-09-08 10 47 50" src="https://github.com/DDaengoo/JavaProject/assets/143365358/909392e2-903d-47b9-a37d-29a5fe2b79c5">
 
-=> 난이도(1,2,3) & 새 단어 입력 : 1 tree 
-
-뜻 입력 : 나무 
-
-새단어가 단어장에 추가되었습니다.
 
 -----------------------------------
 3. [단어 목록] - 등록된 단어를 보여주는 기능'
 실행 예)
 
-1 *** superintendent  관리자, 감독관
-   
-2 *         electric  전기의, 전기를 생산하는 
+<img width="325" alt="스크린샷 2023-09-08 10 48 32" src="https://github.com/DDaengoo/JavaProject/assets/143365358/06ec8771-2d3f-455c-be6c-3f2713b46cc3">
 
-3 **       equipment  장비, 용품
-
-4 *             pole  기둥, 장대 
-
-5 *         formerly  이전에, 예전에 
- 
-6 *            apple  사과 
-
-7 **            kiwi  키위 
 
  -----------------------------------
 
