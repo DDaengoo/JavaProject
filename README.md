@@ -34,17 +34,17 @@ Main class (static main 함수, starter class)
 
 1 *** superintendent  관리자, 감독관
    
-2 *                       electric  전기의, 전기를 생산하는 
+2 *         electric  전기의, 전기를 생산하는 
 
-3 **                    equipment  장비, 용품
+3 **       equipment  장비, 용품
 
-4 *                        pole  기둥, 장대 
+4 *             pole  기둥, 장대 
 
-5 *                       formerly  이전에, 예전에 
+5 *         formerly  이전에, 예전에 
  
-6 *                      apple  사과 
+6 *            apple  사과 
 
-7 **                      kiwi  키위 
+7 **            kiwi  키위 
 
  -----------------------------------
 
