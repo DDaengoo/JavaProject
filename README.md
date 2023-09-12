@@ -1,4 +1,4 @@
-# JavaFirstProject
+# JavaProject
 자바프로그래밍을 이용하여 CRUD 기능을 구현한 영단어 마스터 프로그램
 
 Word class (데이터 클래스)
