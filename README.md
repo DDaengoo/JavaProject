@@ -17,7 +17,7 @@ WordManager class (wordCRUD를 사용한 실제 관리)
 - wordCRUD룰 이용해서 전체 프로그램을 관리하기 위함
   
 Main class (static main 함수, starter class) 
-  자바프로젝트를 살행하기 위하여 wordManager를 호출함
+  자바프로젝트를 실행하기 위하여 wordManager를 호출함
   
 -----------------------------------
 <영단어 마스터 프로그램 기능 소개> 
