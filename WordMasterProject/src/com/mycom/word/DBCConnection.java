@@ -1,3 +1,4 @@
+/*
 package com.mycom.word;
 
 import java.sql.Connection;
@@ -8,17 +9,30 @@ import java.sql.SQLException;
 public class DBCConnection {
     private static Connection conn = null;
 
-    public static Connection getConnection() {
-        if(conn== null){
-            try{
+    public static Connection getConnection() throws SQLException {
+        if (conn == null) {
+            try {
                 class.forName("org.sqlite.JDBC");
                 conn = DriverManager.getConnection("jdbc:sqlite");
-            } catch (ClassNotFoundException e){
+            } catch (ClassNotFoundException e) {
                 e.printStackTrace();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
+
         }
         return conn;
     }
+
+    public static void closeConnection() {
+        if(conn != null ) {
+                try
+                {conn.close();
+                } catch (SQLException e){
+            e.printStackTrace();}
+
+
+        }
+    }
 }
+*/
