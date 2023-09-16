@@ -3,4 +3,10 @@
 2|equipment|장비, 용품
 1|pole|기둥, 장대
 1|formerly|이전에, 예전에
-1||asdf
+2|precede|~에 앞서다
+3|terminate|마치다
+2|terminal|공항 터미널, 말기의
+1|friend|친구
+2|precise|정확한, 정확성
+2|property|재산,부동산
+1| juice|음료
